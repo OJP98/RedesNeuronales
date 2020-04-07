@@ -29,6 +29,7 @@ pandocfilters==1.4.2
 parso==0.6.2
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==7.1.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 ptyprocess==0.6.0
@@ -40,6 +41,7 @@ pytz==2019.3
 pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.0
+scipy==1.4.1
 Send2Trash==1.5.0
 six==1.14.0
 terminado==0.8.3
